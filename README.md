@@ -1,0 +1,5 @@
+- 👋 Olá, sou o @GuilhermoPayossin
+- 👀 Estou interessado em aprender como trabalhar com Engenharia de Software
+- 🌱 No momento estou aprendendo Java e Front-end
+- 💞️ Quero colaborar com projetos inovadores
+- 📫 Caso queira me contatar use: guilhermo.payossin@gmail.com
