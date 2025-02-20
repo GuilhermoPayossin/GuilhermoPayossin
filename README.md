@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8f58ed&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#953be3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilhermo+!;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#953be3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilhermo+!;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
 
 ## Olá, eu sou o Guilhermo!
 
@@ -11,8 +11,8 @@
 - ⚡ Sou super interessado em Engenharia e Desenvolvimento de Software!
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermoPayossin&show_icons=true&count_private=true&hide_border=true&title_color=#8f58ed&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Juan Marini github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoPayossin&layout=compact&hide_border=true&title_color=#8f58ed&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermoPayossin&show_icons=true&count_private=true&hide_border=true&title_color=#953be3&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilhermo Payossin's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoPayossin&layout=compact&hide_border=true&title_color=#953be3&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ## Essas são as tecnologias possuo conhecimento:
