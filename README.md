@@ -8,6 +8,7 @@
 - 🌱 No momento estou aprendendo a como ser um desenvolvedor eficiente.
 - 👯 Busco colaborar em projetos inovadores e grandes!
 - ⚡ Sou super interessado em Engenharia e Desenvolvimento de Software!
+- 👓 Me mantenho atualizado com frequencia e sempre busco aprender mais!
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermoPayossin&show_icons=true&count_private=true&hide_border=true&title_color=953be3&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilhermo Payossin's github stats" /> 
