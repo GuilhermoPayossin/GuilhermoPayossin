@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#953be3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilhermo+!;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
 
-## Olá, eu sou o Guilhermo!
+##
 
 - 💪 Estou estudando Java como linguagem principal!
 - 🌱 No momento estou aprendendo a como ser um desenvolvedor eficiente.
