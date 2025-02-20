@@ -9,10 +9,10 @@
 - 👯 Busco colaborar em projetos inovadores e grandes!
 - 📫 Entre em contato comigo pelo meu email: guilhermo.payossin@gmail.com
 - ⚡ Sou super interessado em Engenharia e Desenvolvimento de Software!
-<div>
-  <a href="https://github.com/GuilhermoPayossin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermoPayossin&show_icons=true&theme=dracula&include_all_commits&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoPayossin&layout=compact&langs-count=16&theme=dracula"/>
+- 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermoPayossin&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Juan Marini github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoPayossin&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
