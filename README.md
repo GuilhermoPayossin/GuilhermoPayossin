@@ -15,7 +15,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoPayossin&layout=compact&hide_border=true&title_color=953be3&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Essas são as tecnologias possuo conhecimento:
+## Essas são as linguagens e tecnologias possuo conhecimento:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
