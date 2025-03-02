@@ -26,6 +26,18 @@
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+## Utilitários
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+## DevOps
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
 ## Entre em contato comigo!
 
 <div>  
