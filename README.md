@@ -17,6 +17,7 @@
 
 ## Linguagens e tecnologias possuo conhecimento
 
+![Skills](https://skills-icons.vercel.app/api/icons?i=java,python,html,css,bootstrap,js,mysql,postgresql,spring)
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,12 +32,14 @@
 
 ## Utilitários
 
+![Skills](https://skills-icons.vercel.app/api/icons?i=postman,insomnia)
 <div>
   <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
 
 ## DevOps Tools
 
+![Skills](https://skills-icons.vercel.app/api/icons?i=git,github,azure)
 <div>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
@@ -44,6 +47,7 @@
 
 ## Dev Tools
 
+![Skills](https://skills-icons.vercel.app/api/icons?i=intellij,pycharm,eclipse,vscode)
 <div>
   <img align="center" alt="IntelliJ IDE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img align="center" alt="Eclipse IDE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
@@ -51,11 +55,6 @@
 </div>
 
 ## Entre em contato comigo!
-
-<div>  
-  <a href = "mailto:guilhermo.spera@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermo-payossin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+<a href = "mailto:guilhermo.spera@gmail.com">![Skills](https://skills-icons.vercel.app/api/icons?i=gmail)<a/>
+<a href="https://www.linkedin.com/in/guilhermo-payossin/" target="_blank">![Skills](https://skills-icons.vercel.app/api/icons?i=linkedin)<a/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=953be3&height=120&section=footer"/>
