@@ -18,43 +18,22 @@
 ## Linguagens e tecnologias possuo conhecimento
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=java,python,html,css,bootstrap,js,mysql,postgresql,spring)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BootStrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img align="center" alt="SpringFramework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-</div>
 
 ## Utilitários
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=postman,insomnia)
-<div>
-  <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-</div>
 
 ## DevOps Tools
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=git,github,azure)
-<div>
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</div>
 
 ## Dev Tools
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=intellij,pycharm,eclipse,vscode)
-<div>
-  <img align="center" alt="IntelliJ IDE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img align="center" alt="Eclipse IDE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="Visual Studio Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />   
-</div>
+![Skills](https://skills-icons.vercel.app/api/icons?i=intellij,eclipseide,pycharm,vscode)
 
 ## Entre em contato comigo!
-<a href = "mailto:guilhermo.spera@gmail.com">![Skills](https://skills-icons.vercel.app/api/icons?i=gmail)<a/>
+
+<a href = "mailto:guilhermo.spera@gmail.com" target="_blank">![Skills](https://skills-icons.vercel.app/api/icons?i=gmail)<a/>
 <a href="https://www.linkedin.com/in/guilhermo-payossin/" target="_blank">![Skills](https://skills-icons.vercel.app/api/icons?i=linkedin)<a/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=953be3&height=120&section=footer"/>
