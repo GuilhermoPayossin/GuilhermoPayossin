@@ -10,11 +10,6 @@
 - ⚡ Sou super interessado em Engenharia e Desenvolvimento de Software!
 - 👓 Me mantenho atualizado com frequencia e sempre busco aprender mais!
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermoPayossin&show_icons=true&count_private=true&hide_border=true&title_color=953be3&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilhermo Payossin's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermoPayossin&layout=compact&hide_border=true&title_color=953be3&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 ## Linguagens e tecnologias possuo conhecimento
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=java,python,html,css,bootstrap,js,mysql,postgresql,spring)
